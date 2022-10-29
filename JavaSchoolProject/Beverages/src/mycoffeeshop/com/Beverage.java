@@ -35,8 +35,6 @@ public class Beverage {
 		this.cost=8.0;
 			
 	}
-	
-	
 	public double cost() {	
 		return size*cost;	
 	}
