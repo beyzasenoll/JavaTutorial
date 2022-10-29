@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7858a776-b1f0-452b-826b-becf2013bb12" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Beverages-20221021/.idea/Beverages-20221021.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Beverages/Beverages.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Beverages/src/Beverages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Beverages/src/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Beverages/src/FilterCoffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Beverages/src/GreenTea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Beverages/src/Tea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BinarySearchTree/BinarySearchTree.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DustBin/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PencilCase/PencilCase.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pizza/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pizza/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pizza/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pizza/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pizza/Pizza.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pizza/src/Lahmacun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pizza/src/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deneme/deneme.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ruveyda_odev/ruveyda_odev.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dart/out/production/Dart/dart/DartPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Dart/out/production/Dart/dart/DartPlayer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dart/out/production/Dart/dart/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Dart/out/production/Dart/dart/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dart/src/dart/DartPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Dart/src/dart/DartPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dart/src/dart/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Dart/src/dart/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DustBin/out/production/schl_project/DustBin.class" beforeDir="false" afterPath="$PROJECT_DIR$/../DustBin/out/production/schl_project/DustBin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DustBin/out/production/schl_project/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../DustBin/out/production/schl_project/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DustBin/src/DustBin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DustBin/src/DustBin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DustBin/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DustBin/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Elevator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elevator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MarbleJar/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MarbleJar/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schl_project/.idea/workspace.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FzZZFzLRyZyGXS8XXyoHsyzSll" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7858a776-b1f0-452b-826b-becf2013bb12" name="Changes" comment="" />
+      <created>1665496926936</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665496926936</updated>
+      <workItem from="1665496928159" duration="946000" />
+      <workItem from="1665497883667" duration="180000" />
+      <workItem from="1666089064619" duration="9000" />
+      <workItem from="1666545477039" duration="947000" />
+      <workItem from="1666803076574" duration="391000" />
+      <workItem from="1666891582042" duration="4000" />
+      <workItem from="1667040193805" duration="3000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

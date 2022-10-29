@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8e37a5f8-4f7d-40c1-9143-04b26de6c23b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Beverages-20221021/.idea/Beverages-20221021.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Beverages/Beverages.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Beverages/src/Beverages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Beverages/src/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Beverages/src/FilterCoffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Beverages/src/GreenTea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Beverages/src/Tea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BinarySearchTree/BinarySearchTree.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PencilCase/PencilCase.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pizza/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pizza/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pizza/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pizza/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pizza/Pizza.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pizza/src/Lahmacun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pizza/src/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deneme/deneme.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ruveyda_odev/ruveyda_odev.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dart/out/production/Dart/dart/DartPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Dart/out/production/Dart/dart/DartPlayer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dart/out/production/Dart/dart/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Dart/out/production/Dart/dart/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dart/src/dart/DartPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Dart/src/dart/DartPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dart/src/dart/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Dart/src/dart/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/schl_project/DustBin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/schl_project/DustBin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/schl_project/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/schl_project/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DustBin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DustBin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Elevator/src/Elevator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Elevator/src/Elevator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Elevator/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Elevator/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MarbleJar/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MarbleJar/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schl_project/.idea/workspace.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Fo0PQp4AWLjMhapecaehPXxzFp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/JavaTutorial/DustBin&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="schl_project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e37a5f8-4f7d-40c1-9143-04b26de6c23b" name="Changes" comment="" />
+      <created>1665143107578</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665143107578</updated>
+      <workItem from="1665143108903" duration="4058000" />
+      <workItem from="1665169883634" duration="668000" />
+      <workItem from="1665254999049" duration="54000" />
+      <workItem from="1665495850271" duration="1056000" />
+      <workItem from="1666547269661" duration="2089000" />
+      <workItem from="1666549388097" duration="25000" />
+      <workItem from="1666551324059" duration="2003000" />
+      <workItem from="1666553542826" duration="2000" />
+      <workItem from="1667040379310" duration="320000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
