@@ -6,6 +6,8 @@ public class BFS {
     private Queue<Integer> queue;
 
     public BFS(int v) {
+
+
         V = v;
         adj = new LinkedList[v];
         for (int i=0; i<v; i++)
@@ -47,3 +49,5 @@ public class BFS {
         System.out.println("---->count 1=> " + count1 );
     }
 }
+
+
